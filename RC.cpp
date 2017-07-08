@@ -14,7 +14,7 @@ using namespace std;
 string turn_binary(int input, int bit)
 {
 	int n;
-	//45465464
+	//45465464456454654654545445
 	string bin_tmp,tmp;
 	for(int i =0;i<bit;i++)
 	{
